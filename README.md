@@ -1,2 +1,2 @@
 # Python-Tools
-Python toolbox
+Toolbox for Python things.
