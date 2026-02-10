@@ -6,8 +6,8 @@
 
 | Date Added | Name | Description |
 |----------|----------|----------|
-| 2/9/2026  | Publish-Sig-Figs | Python function to determine if results are within academic publication means  |
-| 2/9/2026  | Exoplanet-Radius  | Python function to find an exoplanet's radius in terms of Earth radii  |
-| 2/9/2026  | Array-Describer  | Python function to describes aspects of an array  |
+| 2/9/2026  | Publish-Sig-Figs | Function to determine if results are within academic publication means  |
+| 2/9/2026  | Exoplanet-Radius  | Function to find an exoplanet's radius in terms of Earth radii  |
+| 2/9/2026  | Array-Describer  | Function to describes aspects of an array  |
 
 
