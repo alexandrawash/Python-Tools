@@ -6,6 +6,7 @@
 
 | Date Added | Name | Description |
 |----------|----------|----------|
+| 2/9/2026  | Central Derivative | Finds the central derivative   |
 | 2/9/2026  | Planck-Function | Planck Function   |
 | 2/9/2026  | Estimate-RGB | Estimates the RGB color of an object from its spectrum  |
 | 2/9/2026  | Publish-Sig-Figs | Determines if results are within academic publication means  |
