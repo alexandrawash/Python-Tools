@@ -1,5 +1,6 @@
+# import necessary elements
 import numpy as np
-
+# ----------------------------------------------------------------------------
 def publish(OverallResults, SpecificResult):
     '''
     takes in your overall experiment results
