@@ -1,4 +1,4 @@
-# Import necessary elements
+# import necessary elements
 from math import sqrt
 from math import pi
 # ----------------------------------------------------------------------------
