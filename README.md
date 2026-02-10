@@ -6,6 +6,7 @@
 
 | Date Added | Name | Description |
 |----------|----------|----------|
+| 2/9/2026  | Sphere-Volume | Finds the volume of a sphere  |
 | 2/9/2026  | Force-Vector-Leapfrog-Integration | Integration via the leapfrog method for force vectors  |
 | 2/9/2026  | Linear-Scaled-Array | Linearly scales an array based on user input  |
 | 2/9/2026  | Scale-Array | Scales an array based on user input  |
