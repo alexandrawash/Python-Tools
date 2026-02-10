@@ -1,5 +1,6 @@
+# import necessary things
 import numpy as np
-
+# ----------------------------------------------------------------------------
 def estimateRGB(wavelengths, fluxes):
     """
     This function estimates the RGB color of an object, from its spectrum.
