@@ -2,11 +2,12 @@
 ### Toolbox for Python things ranging from mathematical to physics to basic python functions.
 
 ## Table of Contents:
-### Newest added files are at the top
+#### Newest added files are at the top
 
 | Date Added | Name | Description |
 |----------|----------|----------|
-| Cell A1  | Cell B1  | Cell C1  |
-| Cell A2  | Cell B2  | Cell C2  |
+| 2/9/2026  | Publish-Sig-Figs | Python function to determine if results are within academic publication means  |
+| 2/9/2026  | Exoplanet-Radius  | Python function to find an exoplanet's radius in terms of Earth radii  |
+| 2/9/2026  | Array-Describer  | Python function to describes aspects of an array  |
 
 
