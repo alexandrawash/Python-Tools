@@ -1,6 +1,6 @@
-# First import necessary things
+# import necessary elements
 import numpy as np
-
+# ----------------------------------------------------------------------------
 # Array Describing Function:
 def describe(a):
     '''Summarize the basic characteristics of an array.'''
