@@ -1,4 +1,4 @@
-# import necessary things
+# import necessary elements
 import numpy as np
 # ----------------------------------------------------------------------------
 def estimateRGB(wavelengths, fluxes):
